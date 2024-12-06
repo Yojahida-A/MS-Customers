@@ -50,7 +50,7 @@ components:
           description: Nombre de cliente
         lastName:
           type: String
-          description: apellidos del cliente
+          description: Apellidos del cliente
         dni:
           type: String
           description: DNI de cliente
